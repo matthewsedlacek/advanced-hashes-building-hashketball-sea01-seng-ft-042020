@@ -1,4 +1,4 @@
-h# Write your code here!
+# Write your code here!
 def game_hash
 hash = {
   :home => {
